@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class HangMan {
 	
-	static int lives = 6; // number of lives
+	static int lives = 4; // number of lives
 
 	static String[] listOfGuesses = new String[0]; // keeps track of all guesses
 
