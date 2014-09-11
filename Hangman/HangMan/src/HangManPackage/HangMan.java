@@ -12,7 +12,7 @@ import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
 
-public class HangMan { // Adding doc comments to apply to GitHub Assignment
+public class HangMan { // Adding doc comments to apply to GitHub Assignment . 
 	
 	static int lives = 6; // number of lives
 
